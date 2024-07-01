@@ -1,0 +1,63 @@
+text,sentiment
+"I love this product!",positive
+"This is the worst experience ever.",negative
+"Absolutely fantastic!",positive
+"I am not happy with the service.",negative
+"Great quality and fast shipping.",positive
+"Terrible, would not recommend.",negative
+"I'm so impressed with their customer service!",positive
+"The product exceeded my expectations.",positive
+"I regret buying this item.",negative
+"Highly recommended!",positive
+"The delivery was late and the item was damaged.",negative
+"I can't wait to buy from them again!",positive
+"This company has the worst customer support.",negative
+"The service was exceptional.",positive
+"I am disappointed with the product quality.",negative
+"Their return policy is very inconvenient.",negative
+"I'm thrilled with my purchase!",positive
+"The worst purchase I've ever made.",negative
+"The staff was helpful and friendly.",positive
+"The packaging was poor and the item was broken upon arrival.",negative
+"The website is user-friendly and easy to navigate.",positive
+"I found a bug in the software that caused it to crash.",negative
+"The features of this app are very useful and innovative.",positive
+"The customer support team was rude and unhelpful.",negative
+"The hotel room was clean and well-maintained.",positive
+"The food at the restaurant was bland and overpriced.",negative
+"I appreciate the prompt response from the support team.",positive
+"The instructions were confusing and hard to follow.",negative
+"The movie was a complete waste of time.",negative
+"I had a wonderful time at the concert.",positive
+"The car performs well and is fuel-efficient.",positive
+"My flight was delayed for hours with no explanation.",negative
+"The book was engaging and well-written.",positive
+"The internet connection is slow and unreliable.",negative
+"The vacation package was a great deal.",positive
+"The software update caused more problems than it fixed.",negative
+"I am very satisfied with my new phone.",positive
+"The customer service representative was very knowledgeable.",positive
+"I had to wait too long to get a response.",negative
+"The product arrived earlier than expected.",positive
+"The clothing material feels cheap and uncomfortable.",negative
+"The staff went above and beyond to help me.",positive
+"The app keeps crashing and is unusable.",negative
+"I love the vibrant colors and design.",positive
+"The price is too high for the quality offered.",negative
+"The performance was breathtaking.",positive
+"I am frustrated with the lack of support.",negative
+"The service was quick and efficient.",positive
+"The software lacks important features.",negative
+"I enjoy the variety of options available.",positive
+"The repair service was slow and unprofessional.",negative
+"The atmosphere of the place was cozy and inviting.",positive
+"The product stopped working after a week.",negative
+"I had a pleasant shopping experience.",positive
+"The food was cold and unappetizing.",negative
+"The team was very responsive to my needs.",positive
+"My order was lost and never arrived.",negative
+"The interface is intuitive and easy to use.",positive
+"The experience was disappointing.",negative
+"The battery life of the device is impressive.",positive
+"I will never buy from this company again.",negative
+"The service quality has declined over time.",negative
